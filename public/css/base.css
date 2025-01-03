@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: #2c3e50;
+    color: white;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+}
+
+.navbar-container {
+    height: 30px;
+}
+
+/* ナビゲーションリンクのスタイル */
+.navbar-links {
+    list-style: none;
+    display: flex;
+    align-items: center;
+
+}
+
+.navbar-links>li:not(:nth-child(1)) {
+    margin-left: 10px;
+}
+
+.navbar-links a {
+    color: white;
+    text-decoration: none;
+    font-size: 1rem;
+    padding: 5px 10px;
+    transition: background-color 0.3s ease;
+    opacity: 0.7;
+}
+
+.navbar-links .nav-link.active {
+    opacity: 1;
+}
+
+/* リンクにホバーした時のスタイル */
+.navbar-links a:hover {
+    background-color: #555;
+    border-radius: 4px;
+}
+
+.dropdown-text {
+    display: flex;
+    align-items: center;
+    opacity: 0.7;
+}
+
+.dropdown-icon {
+    font-size: 0.6rem;
+    margin: auto 3px;
+}
+
+.dropdown-list {
+    position: relative;
+}
+
+.dropdown-list:hover .dropdown-menu {
+    display: block;
+}
+
+.dropdown-menu {
+    position: absolute;
+    left: -20%;
+    display: none;
+    list-style: none;
+    background-color: #333;
+    width: 140%;
+    padding: 5px;
+    padding-top: 12px;
+    font-size: 0.9rem;
+}
+
+.dropdown-menu {
+    position: absolute;
+    left: -20%;
+    display: none;
+    list-style: none;
+    background-color: #333;
+    width: 150%;
+    padding: 5px;
+    padding-top: 15px;
+    text-align: center;
+}
+
+.dropdown-menu li {
+    margin-bottom: 5px;
+}
+
+.dropdown-menu li a {
+    font-size: 0.9rem;
+    padding: 0;
+}
+
+main {
+    margin-top: 70px;
+}

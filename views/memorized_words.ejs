@@ -1,0 +1,45 @@
+<% layout('base') %>
+<% styles = '<link rel="stylesheet" href="/css/memorized_words.css">' %>
+<% scripts = '<script src="/js/memorized_words.js"></script>' %>
+
+<div class="vocabulary-container">
+
+  <% for( let vocabulary of vocabularies ) { %>
+
+  <div class="card" onclick="flipCard(this)">
+    <div class="card-inner">
+      <div class="card-front">
+        <% if (type === 'chinese') { %>
+        <p><%= vocabulary.chinese %></p>
+        <% } else if (type === 'japanese') { %>
+        <p><%= vocabulary.japanese %></p>
+        <% } else if (type === 'pinyin') { %>
+        <p><%= vocabulary.pinyin %></p>
+        <% } %>
+        <a href="/<%= type %>/<%= vocabulary._id %>/unmemorized" class="unmemorized-button">未暗記に変更</a>
+      </div>
+      <div class="card-back">
+        <% if (type !== 'chinese') { %>
+        <p><%= vocabulary.chinese %></p>
+        <% } %>
+        <% if (type !== 'japanese') { %>
+        <p><%= vocabulary.japanese %></p>
+        <% } %>
+        <% if (type !== 'pinyin') { %>
+        <p><%= vocabulary.pinyin %></p>
+        <% } %>
+      </div>
+    </div>
+  </div>
+
+  <% } %>
+
+</div>
+
+<% if (type === 'chinese' && vocabularies.length === 0 ) { %>
+<p class="message">現在中国語で暗記している<br>単語はありません</p>
+<% } else if (type === 'japanese' && vocabularies.length === 0 ) { %>
+<p class="message">現在日本語で暗記している<br>単語はありません</p>
+<% } else if (type === 'pinyin' && vocabularies.length === 0 ) { %>
+<p class="message">現在拼音で暗記している<br>単語はありません</p>
+<% } %>

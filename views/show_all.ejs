@@ -1,0 +1,23 @@
+<% layout('base') %>
+<% styles = '<link rel="stylesheet" href="css/show_all.css">' %>
+<% scripts = '<script src="js/show_all.js"></script>' %>
+
+
+<div class="vocabulary-container">
+
+  <% for( let vocabulary of vocabularies ) { %>
+
+  <div class="card" onclick="flipCard(this)">
+    <div class="card-inner">
+      <div class="card-front">
+        <p><%= vocabulary.chinese %></p>
+      </div>
+      <div class="card-back">
+        <p><%= vocabulary.japanese %></p>
+        <p><%= vocabulary.pinyin %></p>
+      </div>
+    </div>
+  </div>
+
+  <% } %>
+</div>

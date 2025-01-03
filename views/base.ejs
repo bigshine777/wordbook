@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@200..900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/base.css">
+  <%- styles %>
+  <title>Document</title>
+</head>
+
+<body>
+  <header>
+    <nav class="navbar">
+      <div class="navbar-container">
+        <ul class="navbar-links">
+          <li><a href="/" class="nav-link <%= currentPath === '/' ? 'active' : '' %>">ホーム</a></li>
+          <li class="dropdown-list">
+            <p class="dropdown-text nav-link <%= ['/wordbook/japanese', '/wordbook/chinese', '/wordbook/pinyin'].includes(currentPath) ? 'active' : '' %>">単語帳<span class="dropdown-icon">▼</span></p>
+            <ul class="dropdown-menu">
+              <li data-value="japanese"><a href="/wordbook/japanese" class="nav-link <%= currentPath === '/wordbook/japanese' ? 'active' : '' %>">日本語</a></li>
+              <li data-value="chinese"><a href="/wordbook/chinese" class="nav-link <%= currentPath === '/wordbook/chinese' ? 'active' : '' %>">中国語</a></li>
+              <li data-value="pinyin"><a href="/wordbook/pinyin" class="nav-link <%= currentPath === '/wordbook/pinyin' ? 'active' : '' %>">拼音</a></li>
+            </ul>
+          </li>
+          <li><a href="/show" class="nav-link <%= currentPath === '/show' ? 'active' : '' %>">全単語</a></li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <%- body %>
+  </main>
+
+  <%- scripts %>
+</body>
+
+</html>

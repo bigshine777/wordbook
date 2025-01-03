@@ -1,0 +1,1252 @@
+[
+    {
+        "chinese": "小笼包",
+        "pinyin": "xiǎo lóng bāo",
+        "japanese": "小籠包"
+    },
+    {
+        "chinese": "块",
+        "pinyin": "kuài",
+        "japanese": "元"
+    },
+    {
+        "chinese": "找",
+        "pinyin": "zhǎo",
+        "japanese": "渡す"
+    },
+    {
+        "chinese": "没关系",
+        "pinyin": "méi guān xi",
+        "japanese": "構いません"
+    },
+    {
+        "chinese": "穿",
+        "pinyin": "chuān",
+        "japanese": "着る"
+    },
+    {
+        "chinese": "平时",
+        "pinyin": "píng shí",
+        "japanese": "いつも"
+    },
+    {
+        "chinese": "戴眼镜",
+        "pinyin": "dài yǎn jìng",
+        "japanese": "メガネをかける"
+    },
+    {
+        "chinese": "坐下",
+        "pinyin": "zuò xià",
+        "japanese": "座る"
+    },
+    {
+        "chinese": "作业",
+        "pinyin": "zuò yè",
+        "japanese": "宿題"
+    },
+    {
+        "chinese": "一直",
+        "pinyin": "yī zhí",
+        "japanese": "ずっと"
+    },
+    {
+        "chinese": "可是",
+        "pinyin": "kě shì",
+        "japanese": "しかし"
+    },
+    {
+        "chinese": "了",
+        "pinyin": "liǎo",
+        "japanese": "(動)+できる、完了する"
+    },
+    {
+        "chinese": "西瓜",
+        "pinyin": "xī guā",
+        "japanese": "スイカ"
+    },
+    {
+        "chinese": "卖",
+        "pinyin": "mài",
+        "japanese": "売る"
+    },
+    {
+        "chinese": "腿伤",
+        "pinyin": "tuǐ shāng",
+        "japanese": "足の怪我"
+    },
+    {
+        "chinese": "抽烟",
+        "pinyin": "chōu yān",
+        "japanese": "タバコを吸う"
+    },
+    {
+        "chinese": "这种鱼",
+        "pinyin": "zhè zhǒng yú",
+        "japanese": "この種類の魚"
+    },
+    {
+        "chinese": "钥匙",
+        "pinyin": "yào shi",
+        "japanese": "鍵"
+    },
+    {
+        "chinese": "问题",
+        "pinyin": "wèn tí",
+        "japanese": "問題"
+    },
+    {
+        "chinese": "教",
+        "pinyin": "jiāo",
+        "japanese": "教える"
+    },
+    {
+        "chinese": "告诉",
+        "pinyin": "gào su",
+        "japanese": "告げる"
+    },
+    {
+        "chinese": "房间",
+        "pinyin": "fáng jiān",
+        "japanese": "部屋"
+    },
+    {
+        "chinese": "真没想到",
+        "pinyin": "zhēn méi xiǎng dào",
+        "japanese": "思いもよらなかった"
+    },
+    {
+        "chinese": "安静",
+        "pinyin": "ān jìng",
+        "japanese": "静か"
+    },
+    {
+        "chinese": "景点",
+        "pinyin": "jǐng diǎn",
+        "japanese": "観光スポット"
+    },
+    {
+        "chinese": "感觉",
+        "pinyin": "gǎn jué",
+        "japanese": "感じる"
+    },
+    {
+        "chinese": "其他",
+        "pinyin": "qí tā",
+        "japanese": "その他"
+    },
+    {
+        "chinese": "念",
+        "pinyin": "niàn",
+        "japanese": "音読する"
+    },
+    {
+        "chinese": "趟",
+        "pinyin": "tàng",
+        "japanese": "動作の回数"
+    },
+    {
+        "chinese": "小时",
+        "pinyin": "xiǎo shí",
+        "japanese": "時間の単位"
+    },
+    {
+        "chinese": "钟",
+        "pinyin": "zhōng",
+        "japanese": "分の単位"
+    },
+    {
+        "chinese": "高中",
+        "pinyin": "gāo zhōng",
+        "japanese": "高校"
+    },
+    {
+        "chinese": "哪一年",
+        "pinyin": "nǎ yī nián",
+        "japanese": "どの年、何年"
+    },
+    {
+        "chinese": "出生",
+        "pinyin": "chū shēng",
+        "japanese": "生まれる"
+    },
+    {
+        "chinese": "飞机",
+        "pinyin": "fēi jī",
+        "japanese": "飛行機"
+    },
+    {
+        "chinese": "认为",
+        "pinyin": "rèn wéi",
+        "japanese": "考える"
+    },
+    {
+        "chinese": "一定",
+        "pinyin": "yí dìng",
+        "japanese": "きっと"
+    },
+    {
+        "chinese": "难过",
+        "pinyin": "nán guò",
+        "japanese": "辛い"
+    },
+    {
+        "chinese": "知道",
+        "pinyin": "zhī dào",
+        "japanese": "知っている"
+    },
+    {
+        "chinese": "手机",
+        "pinyin": "shǒu jī",
+        "japanese": "スマホ"
+    },
+    {
+        "chinese": "希望",
+        "pinyin": "xī wàng",
+        "japanese": "願う、望む"
+    },
+    {
+        "chinese": "习俗",
+        "pinyin": "xí sú",
+        "japanese": "習慣"
+    },
+    {
+        "chinese": "差",
+        "pinyin": "chà",
+        "japanese": "〜との差"
+    },
+    {
+        "chinese": "开空调",
+        "pinyin": "kāi kōng tiáo",
+        "japanese": "エアコンをつける"
+    },
+    {
+        "chinese": "文章",
+        "pinyin": "wén zhāng",
+        "japanese": "文章"
+    },
+    {
+        "chinese": "奇特",
+        "pinyin": "qí tè",
+        "japanese": "奇妙"
+    },
+    {
+        "chinese": "树",
+        "pinyin": "shù",
+        "japanese": "木"
+    },
+    {
+        "chinese": "当然",
+        "pinyin": "dāng rán",
+        "japanese": "当然"
+    },
+    {
+        "chinese": "公园",
+        "pinyin": "gōng yuán",
+        "japanese": "公園"
+    },
+    {
+        "chinese": "相机",
+        "pinyin": "xiàng jī",
+        "japanese": "カメラ"
+    },
+    {
+        "chinese": "礼物",
+        "pinyin": "lǐ wù",
+        "japanese": "お土産"
+    },
+    {
+        "chinese": "一口气",
+        "pinyin": "yī kǒu qì",
+        "japanese": "一気に"
+    },
+    {
+        "chinese": "跑上",
+        "pinyin": "pǎo shàng",
+        "japanese": "駆け上がる"
+    },
+    {
+        "chinese": "结婚",
+        "pinyin": "jié hūn",
+        "japanese": "結婚する"
+    },
+    {
+        "chinese": "长",
+        "pinyin": "zhǎng",
+        "japanese": "成長する、育つ"
+    },
+    {
+        "chinese": "真不错",
+        "pinyin": "zhēn bù cuò",
+        "japanese": "本当に素晴らしい"
+    },
+    {
+        "chinese": "逛",
+        "pinyin": "guàng",
+        "japanese": "ぶらつく"
+    },
+    {
+        "chinese": "建筑",
+        "pinyin": "jiàn zhù",
+        "japanese": "建築"
+    },
+    {
+        "chinese": "最高",
+        "pinyin": "zuì gāo",
+        "japanese": "最高"
+    },
+    {
+        "chinese": "空",
+        "pinyin": "kòng",
+        "japanese": "暇"
+    },
+    {
+        "chinese": "基本上",
+        "pinyin": "jī běn shàng",
+        "japanese": "大体、ほとんど"
+    },
+    {
+        "chinese": "设计",
+        "pinyin": "shè jì",
+        "japanese": "設計する"
+    },
+    {
+        "chinese": "建造",
+        "pinyin": "jiàn zào",
+        "japanese": "建造する"
+    },
+    {
+        "chinese": "标志",
+        "pinyin": "biāo zhì",
+        "japanese": "標識、シンボル"
+    },
+    {
+        "chinese": "暑假",
+        "pinyin": "shǔ jià",
+        "japanese": "夏休み"
+    },
+    {
+        "chinese": "如果",
+        "pinyin": "rú guǒ",
+        "japanese": "もし"
+    },
+    {
+        "chinese": "要是",
+        "pinyin": "yào shì",
+        "japanese": "もし"
+    },
+    {
+        "chinese": "旅游",
+        "pinyin": "lǚ yóu",
+        "japanese": "旅行する"
+    },
+    {
+        "chinese": "困难",
+        "pinyin": "kùn nán",
+        "japanese": "困難"
+    },
+    {
+        "chinese": "找",
+        "pinyin": "zhǎo",
+        "japanese": "探す"
+    },
+    {
+        "chinese": "努力",
+        "pinyin": "nǔ lì",
+        "japanese": "努力する"
+    },
+    {
+        "chinese": "毕业",
+        "pinyin": "bì yè",
+        "japanese": "卒業する"
+    },
+    {
+        "chinese": "尝",
+        "pinyin": "cháng",
+        "japanese": "食べる"
+    },
+    {
+        "chinese": "事情",
+        "pinyin": "shì qíng",
+        "japanese": "事情"
+    },
+    {
+        "chinese": "简单",
+        "pinyin": "jiǎn dān",
+        "japanese": "簡単"
+    },
+    {
+        "chinese": "商量",
+        "pinyin": "shāng liáng",
+        "japanese": "相談する"
+    },
+    {
+        "chinese": "散步",
+        "pinyin": "sàn bù",
+        "japanese": "散歩する"
+    },
+    {
+        "chinese": "周末",
+        "pinyin": "zhōu mò",
+        "japanese": "週末"
+    },
+    {
+        "chinese": "香港",
+        "pinyin": "xiāng gǎng",
+        "japanese": "香港"
+    },
+    {
+        "chinese": "秋",
+        "pinyin": "qiū",
+        "japanese": "秋"
+    },
+    {
+        "chinese": "一会儿",
+        "pinyin": "yī huìr",
+        "japanese": "少し"
+    },
+    {
+        "chinese": "应该",
+        "pinyin": "yīng gāi",
+        "japanese": "〜しなければならない"
+    },
+    {
+        "chinese": "教室",
+        "pinyin": "jiào shì",
+        "japanese": "教室"
+    },
+    {
+        "chinese": "上课",
+        "pinyin": "shàng kè",
+        "japanese": "授業が始まる"
+    },
+    {
+        "chinese": "故事",
+        "pinyin": "gù shì",
+        "japanese": "物語"
+    },
+    {
+        "chinese": "考虑",
+        "pinyin": "kǎo lǜ",
+        "japanese": "考慮する、熟考する"
+    },
+    {
+        "chinese": "弄清楚",
+        "pinyin": "nòng qīng chǔ",
+        "japanese": "はっきりさせる"
+    },
+    {
+        "chinese": "音乐厅",
+        "pinyin": "yīn yuè tīng",
+        "japanese": "音楽ホール"
+    },
+    {
+        "chinese": "了不起",
+        "pinyin": "liǎo bù qǐ",
+        "japanese": "素晴らしい"
+    },
+    {
+        "chinese": "整个儿",
+        "pinyin": "zhěng gèr",
+        "japanese": "全体、全て"
+    },
+    {
+        "chinese": "原址",
+        "pinyin": "yuán zhǐ",
+        "japanese": "元の場所"
+    },
+    {
+        "chinese": "迁移",
+        "pinyin": "qiān yí",
+        "japanese": "遷移する"
+    },
+    {
+        "chinese": "原来",
+        "pinyin": "yuán lái",
+        "japanese": "元々"
+    },
+    {
+        "chinese": "高架",
+        "pinyin": "gāo jià",
+        "japanese": "高架橋"
+    },
+    {
+        "chinese": "影响",
+        "pinyin": "yǐng xiǎng",
+        "japanese": "影響"
+    },
+    {
+        "chinese": "效果",
+        "pinyin": "xiào guǒ",
+        "japanese": "効果"
+    },
+    {
+        "chinese": "演出",
+        "pinyin": "yǎn chū",
+        "japanese": "演出"
+    },
+    {
+        "chinese": "如此",
+        "pinyin": "rú cǐ",
+        "japanese": "このように"
+    },
+    {
+        "chinese": "睡觉",
+        "pinyin": "shuì jiào",
+        "japanese": "寝る"
+    },
+    {
+        "chinese": "诺贝尔奖",
+        "pinyin": "nuò bèi ěr jiǎng",
+        "japanese": "ノーベル賞"
+    },
+    {
+        "chinese": "获",
+        "pinyin": "huò",
+        "japanese": "受賞する"
+    },
+    {
+        "chinese": "科学家",
+        "pinyin": "kē xué jiā",
+        "japanese": "科学者"
+    },
+    {
+        "chinese": "主办",
+        "pinyin": "zhǔ bàn",
+        "japanese": "主催する"
+    },
+    {
+        "chinese": "奥会",
+        "pinyin": "ào huì",
+        "japanese": "オリンピック"
+    },
+    {
+        "chinese": "城市",
+        "pinyin": "chéng shì",
+        "japanese": "都市"
+    },
+    {
+        "chinese": "认真",
+        "pinyin": "rèn zhēn",
+        "japanese": "真面目である"
+    },
+    {
+        "chinese": "睡着",
+        "pinyin": "shuì zháo",
+        "japanese": "眠りに落ちる、寝入る"
+    },
+    {
+        "chinese": "孩子",
+        "pinyin": "hái zi",
+        "japanese": "子供"
+    },
+    {
+        "chinese": "悄悄",
+        "pinyin": "qiāo qiāo",
+        "japanese": "こっそり"
+    },
+    {
+        "chinese": "大声",
+        "pinyin": "dà shēng",
+        "japanese": "大声"
+    },
+    {
+        "chinese": "钱包",
+        "pinyin": "qián bāo",
+        "japanese": "財布"
+    },
+    {
+        "chinese": "小偷",
+        "pinyin": "xiǎo tōu",
+        "japanese": "泥棒"
+    },
+    {
+        "chinese": "偷",
+        "pinyin": "tōu",
+        "japanese": "盗む"
+    },
+    {
+        "chinese": "弄坏",
+        "pinyin": "nòng huài",
+        "japanese": "壊す"
+    },
+    {
+        "chinese": "借走",
+        "pinyin": "jiè zǒu",
+        "japanese": "借りていく、借りる"
+    },
+    {
+        "chinese": "称为",
+        "pinyin": "chēng wéi",
+        "japanese": "呼ぶ、称する"
+    },
+    {
+        "chinese": "珍惜",
+        "pinyin": "zhēn xī",
+        "japanese": "大切にする、惜しむ"
+    },
+    {
+        "chinese": "经常",
+        "pinyin": "jīng cháng",
+        "japanese": "普段、しばしば"
+    },
+    {
+        "chinese": "成绩",
+        "pinyin": "chéng jì",
+        "japanese": "成績、成果"
+    },
+    {
+        "chinese": "放假",
+        "pinyin": "fàng jià",
+        "japanese": "休みになる"
+    },
+    {
+        "chinese": "加拿大",
+        "pinyin": "jiā ná dà",
+        "japanese": "カナダ"
+    },
+    {
+        "chinese": "出门",
+        "pinyin": "chū mén",
+        "japanese": "出かける"
+    },
+    {
+        "chinese": "聊",
+        "pinyin": "liáo",
+        "japanese": "雑談する"
+    },
+    {
+        "chinese": "刚刚",
+        "pinyin": "gāng gāng",
+        "japanese": "ちょうど今、さっき"
+    },
+    {
+        "chinese": "换",
+        "pinyin": "huàn",
+        "japanese": "取り替える"
+    },
+    {
+        "chinese": "德国",
+        "pinyin": "dé guó",
+        "japanese": "ドイツ"
+    },
+    {
+        "chinese": "认识",
+        "pinyin": "rèn shí",
+        "japanese": "知り合う"
+    },
+    {
+        "chinese": "利用",
+        "pinyin": "lì yòng",
+        "japanese": "利用する"
+    },
+    {
+        "chinese": "美丽",
+        "pinyin": "měi lì",
+        "japanese": "美しい"
+    },
+    {
+        "chinese": "横跨",
+        "pinyin": "héng kuà",
+        "japanese": "横たわる"
+    },
+    {
+        "chinese": "~之一",
+        "pinyin": "zhī yī",
+        "japanese": "~の一つ"
+    },
+    {
+        "chinese": "长堤",
+        "pinyin": "cháng dī",
+        "japanese": "長い堤防"
+    },
+    {
+        "chinese": "公里",
+        "pinyin": "gōng lǐ",
+        "japanese": "キロメートル"
+    },
+    {
+        "chinese": "慢慢儿",
+        "pinyin": "màn màn er",
+        "japanese": "ゆっくりと"
+    },
+    {
+        "chinese": "大概",
+        "pinyin": "dà gài",
+        "japanese": "大体"
+    },
+    {
+        "chinese": "花木",
+        "pinyin": "huā mù",
+        "japanese": "花木"
+    },
+    {
+        "chinese": "季节",
+        "pinyin": "jì jié",
+        "japanese": "季節"
+    },
+    {
+        "chinese": "挺",
+        "pinyin": "tǐng",
+        "japanese": "非常に、かなり"
+    },
+    {
+        "chinese": "优美",
+        "pinyin": "yōu měi",
+        "japanese": "美しい、優美だ"
+    },
+    {
+        "chinese": "百聞不如一見",
+        "pinyin": "bǎi wén bù rú yī jiàn",
+        "japanese": "百聞は一見に如かず"
+    },
+    {
+        "chinese": "父亲",
+        "pinyin": "fù qīn",
+        "japanese": "父親"
+    },
+    {
+        "chinese": "脸",
+        "pinyin": "liǎn",
+        "japanese": "顔、顔面"
+    },
+    {
+        "chinese": "苹果",
+        "pinyin": "píngguǒ",
+        "japanese": "りんご"
+    },
+    {
+        "chinese": "红",
+        "pinyin": "hóng",
+        "japanese": "赤い"
+    },
+    {
+        "chinese": "天上",
+        "pinyin": "tiān shàng",
+        "japanese": "空"
+    },
+    {
+        "chinese": "白云",
+        "pinyin": "bái yún",
+        "japanese": "白雲"
+    },
+    {
+        "chinese": "棉花糖",
+        "pinyin": "mián huā táng",
+        "japanese": "綿菓子"
+    },
+    {
+        "chinese": "感冒",
+        "pinyin": "gǎn mào",
+        "japanese": "風邪をひく"
+    },
+    {
+        "chinese": "头",
+        "pinyin": "tóu",
+        "japanese": "頭"
+    },
+    {
+        "chinese": "疼",
+        "pinyin": "téng",
+        "japanese": "痛い"
+    },
+    {
+        "chinese": "桌子",
+        "pinyin": "zhuōzi",
+        "japanese": "机"
+    },
+    {
+        "chinese": "除了 〜 之外",
+        "pinyin": "chúle ~ zhīwài",
+        "japanese": "〜以外、〜のほか"
+    },
+    {
+        "chinese": "舒服",
+        "pinyin": "shūfú",
+        "japanese": "気分がいい"
+    },
+    {
+        "chinese": "拿",
+        "pinyin": "ná",
+        "japanese": "取る、持つ"
+    },
+    {
+        "chinese": "记下",
+        "pinyin": "jì xià",
+        "japanese": "書き下す"
+    },
+    {
+        "chinese": "~ 起来 ~ 起来 ~",
+        "pinyin": "qǐ lái ~ qǐ lái ~",
+        "japanese": "~すると~だが~すると~だ"
+    },
+    {
+        "chinese": "容易",
+        "pinyin": "róng yì",
+        "japanese": "容易だ、簡単だ"
+    },
+    {
+        "chinese": "想法",
+        "pinyin": "xiǎng fǎ",
+        "japanese": "考え、アイデア"
+    },
+    {
+        "chinese": "遗憾",
+        "pinyin": "yí hàn",
+        "japanese": "残念、心残り"
+    },
+    {
+        "chinese": "情趣",
+        "pinyin": "qíng qù",
+        "japanese": "情趣、趣"
+    },
+    {
+        "chinese": "怪不得",
+        "pinyin": "guài bù dé",
+        "japanese": "道理で〜だ"
+    },
+    {
+        "chinese": "难怪",
+        "pinyin": "nán guài",
+        "japanese": "道理で〜だ"
+    },
+    {
+        "chinese": "刚才",
+        "pinyin": "gāng cái",
+        "japanese": "さっき、今しがた"
+    },
+    {
+        "chinese": "划船",
+        "pinyin": "huá chuán",
+        "japanese": "船を漕ぐ"
+    },
+    {
+        "chinese": "租",
+        "pinyin": "zū",
+        "japanese": "（有料で）借りる"
+    },
+    {
+        "chinese": "不但…而且",
+        "pinyin": "bù dàn... ér qiě",
+        "japanese": "…だけでなく"
+    },
+    {
+        "chinese": "穏",
+        "pinyin": "wěn",
+        "japanese": "安定した、穏やかな"
+    },
+    {
+        "chinese": "拜托",
+        "pinyin": "bài tuō",
+        "japanese": "お願いする"
+    },
+    {
+        "chinese": "不过",
+        "pinyin": "bù guò",
+        "japanese": "しかし"
+    },
+    {
+        "chinese": "终于",
+        "pinyin": "zhōng yú",
+        "japanese": "ついに、ようやく"
+    },
+    {
+        "chinese": "游泳",
+        "pinyin": "yóu yǒng",
+        "japanese": "泳ぐ"
+    },
+    {
+        "chinese": "放心",
+        "pinyin": "fàng xīn",
+        "japanese": "安心する"
+    },
+    {
+        "chinese": "车站",
+        "pinyin": "chē zhàn",
+        "japanese": "駅"
+    },
+    {
+        "chinese": "接",
+        "pinyin": "jiē",
+        "japanese": "迎える"
+    },
+    {
+        "chinese": "暖和",
+        "pinyin": "nuǎn huo",
+        "japanese": "暖かい"
+    },
+    {
+        "chinese": "雪",
+        "pinyin": "xuě",
+        "japanese": "雪が降る"
+    },
+    {
+        "chinese": "让",
+        "pinyin": "ràng",
+        "japanese": "〜させる"
+    },
+    {
+        "chinese": "叫",
+        "pinyin": "jiào",
+        "japanese": "〜させる（口語的）"
+    },
+    {
+        "chinese": "自己",
+        "pinyin": "zìjǐ",
+        "japanese": "自分で"
+    },
+    {
+        "chinese": "高考",
+        "pinyin": "gāokǎo",
+        "japanese": "大学入試"
+    },
+    {
+        "chinese": "住在",
+        "pinyin": "zhù zài",
+        "japanese": "〜に泊まる、住む"
+    },
+    {
+        "chinese": "感动",
+        "pinyin": "gǎn dòng",
+        "japanese": "感動する"
+    },
+    {
+        "chinese": "街上",
+        "pinyin": "jiē shàng",
+        "japanese": "街、通り"
+    },
+    {
+        "chinese": "小吃",
+        "pinyin": "xiǎo chī",
+        "japanese": "軽食"
+    },
+    {
+        "chinese": "便宜",
+        "pinyin": "pián yí",
+        "japanese": "安い"
+    },
+    {
+        "chinese": "拿不动",
+        "pinyin": "ná bù dòng",
+        "japanese": "持ち上げられない"
+    },
+    {
+        "chinese": "生活",
+        "pinyin": "shēnghuó",
+        "japanese": "生活"
+    },
+    {
+        "chinese": "紧张",
+        "pinyin": "jǐnzhāng",
+        "japanese": "緊張"
+    },
+    {
+        "chinese": "充实",
+        "pinyin": "chōngshí",
+        "japanese": "充実した"
+    },
+    {
+        "chinese": "免費",
+        "pinyin": "miǎn fèi",
+        "japanese": "無料"
+    },
+    {
+        "chinese": "反对",
+        "pinyin": "fǎn duì",
+        "japanese": "反対する"
+    },
+    {
+        "chinese": "打扫",
+        "pinyin": "dǎ sǎo",
+        "japanese": "掃除する"
+    },
+    {
+        "chinese": "咸",
+        "pinyin": "xián",
+        "japanese": "塩辛い"
+    },
+    {
+        "chinese": "新来",
+        "pinyin": "xīn lái",
+        "japanese": "新しく来た、新入り"
+    },
+    {
+        "chinese": "难得",
+        "pinyin": "nán dé",
+        "japanese": "〜する機会が滅多にない"
+    },
+    {
+        "chinese": "开心",
+        "pinyin": "kāixīn",
+        "japanese": "楽しい、嬉しい"
+    },
+    {
+        "chinese": "刻",
+        "pinyin": "kè",
+        "japanese": "彫る、刻む"
+    },
+    {
+        "chinese": "奇怪",
+        "pinyin": "qíguài",
+        "japanese": "奇妙だ、不思議だ"
+    },
+    {
+        "chinese": "传说",
+        "pinyin": "chuánshuō",
+        "japanese": "言い伝えられている"
+    },
+    {
+        "chinese": "也许",
+        "pinyin": "yěxǔ",
+        "japanese": "もしかすると、あるいは"
+    },
+    {
+        "chinese": "想起来",
+        "pinyin": "xiǎng qǐ lái",
+        "japanese": "思い出す"
+    },
+    {
+        "chinese": "讲",
+        "pinyin": "jiǎng",
+        "japanese": "話す、語る"
+    },
+    {
+        "chinese": "医院",
+        "pinyin": "yīyuàn",
+        "japanese": "病院"
+    },
+    {
+        "chinese": "看病",
+        "pinyin": "kànbìng",
+        "japanese": "診察を受ける"
+    },
+    {
+        "chinese": "洗手",
+        "pinyin": "xǐ shǒu",
+        "japanese": "手を洗う"
+    },
+    {
+        "chinese": "停",
+        "pinyin": "tíng",
+        "japanese": "停める"
+    },
+    {
+        "chinese": "墙",
+        "pinyin": "qiáng",
+        "japanese": "壁"
+    },
+    {
+        "chinese": "挂",
+        "pinyin": "guà",
+        "japanese": "掛ける"
+    },
+    {
+        "chinese": "画儿",
+        "pinyin": "huà er",
+        "japanese": "絵"
+    },
+    {
+        "chinese": "蓝色",
+        "pinyin": "lánsè",
+        "japanese": "青色"
+    },
+    {
+        "chinese": "发生",
+        "pinyin": "fāshēng",
+        "japanese": "発生する"
+    },
+    {
+        "chinese": "交通事故",
+        "pinyin": "jiāotōng shìgù",
+        "japanese": "交通事故"
+    },
+    {
+        "chinese": "考试",
+        "pinyin": "kǎo shì",
+        "japanese": "テスト"
+    },
+    {
+        "chinese": "肯定",
+        "pinyin": "kěn dìng",
+        "japanese": "きっと"
+    },
+    {
+        "chinese": "婚礼",
+        "pinyin": "hūn lǐ",
+        "japanese": "結婚式"
+    },
+    {
+        "chinese": "可能",
+        "pinyin": "kě néng",
+        "japanese": "可能性がある"
+    },
+    {
+        "chinese": "离开",
+        "pinyin": "lí kāi",
+        "japanese": "離れる"
+    },
+    {
+        "chinese": "研究",
+        "pinyin": "yán jiū",
+        "japanese": "探求する、研究する"
+    },
+    {
+        "chinese": "环保",
+        "pinyin": "huán bǎo",
+        "japanese": "環境保護"
+    },
+    {
+        "chinese": "论文",
+        "pinyin": "lùn wén",
+        "japanese": "論文"
+    },
+    {
+        "chinese": "会议",
+        "pinyin": "huìyì",
+        "japanese": "会議"
+    },
+    {
+        "chinese": "到此",
+        "pinyin": "dào cǐ",
+        "japanese": "ここで、これで"
+    },
+    {
+        "chinese": "结束",
+        "pinyin": "jiéshù",
+        "japanese": "終了する"
+    },
+    {
+        "chinese": "帯",
+        "pinyin": "dài",
+        "japanese": "連れる"
+    },
+    {
+        "chinese": "修炼",
+        "pinyin": "xiūliàn",
+        "japanese": "修行する"
+    },
+    {
+        "chinese": "后来",
+        "pinyin": "hòulái",
+        "japanese": "その後"
+    },
+    {
+        "chinese": "游玩",
+        "pinyin": "yóuwán",
+        "japanese": "遊覧する"
+    },
+    {
+        "chinese": "然后",
+        "pinyin": "rán hòu",
+        "japanese": "その後"
+    },
+    {
+        "chinese": "不得已",
+        "pinyin": "bù dé yǐ",
+        "japanese": "やむをえず"
+    },
+    {
+        "chinese": "打败",
+        "pinyin": "dǎ bài",
+        "japanese": "打ち負かす"
+    },
+    {
+        "chinese": "天气",
+        "pinyin": "tiān qì",
+        "japanese": "天気"
+    },
+    {
+        "chinese": "越来越",
+        "pinyin": "yuè lái yuè",
+        "japanese": "ますます"
+    },
+    {
+        "chinese": "满意",
+        "pinyin": "mǎn yì",
+        "japanese": "満足だ"
+    },
+    {
+        "chinese": "神户",
+        "pinyin": "Shén hù",
+        "japanese": "神戸"
+    },
+    {
+        "chinese": "宾馆",
+        "pinyin": "bīn guǎn",
+        "japanese": "ホテル"
+    },
+    {
+        "chinese": "尽管",
+        "pinyin": "jǐn guǎn",
+        "japanese": "~にもかかわらず"
+    },
+    {
+        "chinese": "优点",
+        "pinyin": "yōu diǎn",
+        "japanese": "長所、いい所"
+    },
+    {
+        "chinese": "一些",
+        "pinyin": "yī xiē",
+        "japanese": "少し"
+    },
+    {
+        "chinese": "缺点",
+        "pinyin": "quē diǎn",
+        "japanese": "短所、欠点"
+    },
+    {
+        "chinese": "记住",
+        "pinyin": "jì zhù",
+        "japanese": "覚える、記憶する"
+    },
+    {
+        "chinese": "价格",
+        "pinyin": "jià gé",
+        "japanese": "値段"
+    },
+    {
+        "chinese": "贵",
+        "pinyin": "guì",
+        "japanese": "値段が高い"
+    },
+    {
+        "chinese": "还是",
+        "pinyin": "hái shì",
+        "japanese": "それでも、やはり"
+    },
+    {
+        "chinese": "愿意",
+        "pinyin": "yuàn yì",
+        "japanese": "〜したい、喜んで〜する"
+    },
+    {
+        "chinese": "练习",
+        "pinyin": "liàn xí",
+        "japanese": "練習する"
+    },
+    {
+        "chinese": "读书",
+        "pinyin": "dú shū",
+        "japanese": "読書"
+    },
+    {
+        "chinese": "知识",
+        "pinyin": "zhī shí",
+        "japanese": "知識"
+    },
+    {
+        "chinese": "更",
+        "pinyin": "gèng",
+        "japanese": "更に"
+    },
+    {
+        "chinese": "自己的修养",
+        "pinyin": "zì jǐ de xiū yǎng",
+        "japanese": "自分の修養、教養"
+    },
+    {
+        "chinese": "提高",
+        "pinyin": "tí gāo",
+        "japanese": "向上させる"
+    }
+]

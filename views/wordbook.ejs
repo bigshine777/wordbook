@@ -1,0 +1,48 @@
+<% layout('base') %>
+<% styles = '<link rel="stylesheet" href="/css/wordbook.css">' %>
+<% scripts = '<script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script><script src="/js/wordbook.js"></script>' %>
+
+
+<div class="container">
+  <p class="vocabulary-num">覚えた単語 <span class="memorized-num"><%= all_vocabularies.length - vocabularies.length %></span> / <%= all_vocabularies.length %></p>
+  <p class="up-description">↑覚えていない</p>
+  <p class="right-description">↑覚えた</p>
+  <p class="left-description">↓戻す</p>
+  <div class="card-container">
+
+    <% for( let i = 0; i < vocabularies.length ; i++ ) { %>
+    <% const vocabulary = vocabularies[i] %>
+
+    <div class="card card-<%= i %> <%= i === 0 ? '' : 'hidden' %>" id="<%= vocabulary._id %>" onclick="flipCard(this)">
+      <div class="card-inner">
+        <div class="card-front">
+          <% if (type === 'chinese') { %>
+          <p><%= vocabulary.chinese %></p>
+          <% } else if (type === 'japanese') { %>
+          <p><%= vocabulary.japanese %></p>
+          <% } else if (type === 'pinyin') { %>
+          <p><%= vocabulary.pinyin %></p>
+          <% } %>
+        </div>
+        <div class="card-back">
+          <% if (type !== 'chinese') { %>
+          <p><%= vocabulary.chinese %></p>
+          <% } %>
+          <% if (type !== 'japanese') { %>
+          <p><%= vocabulary.japanese %></p>
+          <% } %>
+          <% if (type !== 'pinyin') { %>
+          <p><%= vocabulary.pinyin %></p>
+          <% } %>
+        </div>
+      </div>
+    </div>
+
+    <% } %>
+
+  </div>
+  <a href="/wordbook/<%= type %>/memorized" class="memorized-words">覚えた単語を確認する</a>
+
+  <div id="success-popup" class="popup hidden">覚えた!</div>
+  <div id="failed-popup" class="popup hidden">覚えていない…</div>
+</div>
