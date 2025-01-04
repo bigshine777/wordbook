@@ -1,0 +1,29 @@
+{
+  "name": "ChineseWordBook",
+  "short_name": "ChWordBook",
+  "icons": [
+    {
+      "src": "/img/icon.png",
+      "sizes": "794x794",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/img/icon.png",
+      "sizes": "794x794",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "794x794",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
