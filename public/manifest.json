@@ -3,8 +3,8 @@
   "short_name": "ChWordBook",
   "icons": [
     {
-      "src": "/img/icon.png",
-      "sizes": "794x794",
+      "src": "/img/icon512.png",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ],
