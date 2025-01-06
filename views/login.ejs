@@ -1,0 +1,19 @@
+<% layout('base') %>
+<% styles = '<link rel="stylesheet" href="/css/index.css">' %>
+<% scripts = '' %>
+
+<!-- フラッシュメッセージの表示 -->
+<% if (!error_msg) { %>
+    <div style="color: red;"><%= error_msg %></div>
+<% } %>
+<% if (success_msg) { %>
+    <div style="color: green;"><%= success_msg %></div>
+<% } %>
+
+<form action="/signup" method="POST">
+    <label for="username">ユーザー名</label>
+    <input type="text" name="username" id="username" required>
+    <label for="password">パスワード</label>
+    <input type="password" name="password" id="password" required>
+    <button type="submit">サインアップ</button>
+</form>

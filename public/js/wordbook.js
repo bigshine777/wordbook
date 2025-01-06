@@ -28,16 +28,6 @@ function showPopup(bool) {
     }, 1500);
 }
 
-// function updateMemorizedCount(change) {
-//     const numElement = document.querySelector('.memorized-num');
-//     let num = parseInt(numElement.textContent);
-//     console.log(num);
-
-//     num += change;
-//     console.log(num);
-//     numElement.textContent = change;
-// }
-
 async function updateMemorizedCount() {
     const pathname = window.location.pathname;
 
@@ -71,7 +61,6 @@ hammer.on('swipeleft swiperight swipeup', async (event) => {
 
     if (event.type === 'swiperight') {
         showPopup(true);
-        // updateMemorizedCount(1);
         await saveProgress(currentCardIndex, true);
 
         card.classList.add('hidden');
@@ -79,7 +68,6 @@ hammer.on('swipeleft swiperight swipeup', async (event) => {
         cards[currentCardIndex].classList.remove('hidden');
     } else if (event.type === 'swipeup') {
         showPopup(false);
-        // updateMemorizedCount(-1);
         await saveProgress(currentCardIndex, false);
 
         card.classList.add('hidden');
