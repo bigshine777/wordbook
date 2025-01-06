@@ -42,7 +42,7 @@ async function updateMemorizedCount() {
     const pathname = window.location.pathname;
 
     try {
-        const response = await fetch(pathname, {
+        const response = await fetch(`${pathname}?format=json`, {
             headers: { 'Accept': 'application/json' },
         });
 

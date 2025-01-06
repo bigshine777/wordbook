@@ -47,8 +47,7 @@ app.get('/wordbook/:type', async (req, res) => {
     ]);
     const all_vocabularies = await Vocabulary.find();
 
-    if (req.headers.accept && req.headers.accept.includes('application/json')) {
-        // JSON レスポンスとして返す
+    if (req.query.format === 'json') {
         return res.json({ vocabularies, type, all_vocabularies });
     }
     res.render('wordbook', { vocabularies, type, all_vocabularies });
