@@ -1248,5 +1248,185 @@
         "chinese": "提高",
         "pinyin": "tí gāo",
         "japanese": "向上させる"
+    },
+    {
+        "chinese": "说到",
+        "pinyin": "shuō dào",
+        "japanese": "言うと"
+    },
+    {
+        "chinese": "果然",
+        "pinyin": "guǒ rán",
+        "japanese": "やはり"
+    },
+    {
+        "chinese": "不愧",
+        "pinyin": "bù kuì",
+        "japanese": "～にふさわしい"
+    },
+    {
+        "chinese": "自古",
+        "pinyin": "zì gǔ",
+        "japanese": "昔から"
+    },
+    {
+        "chinese": "胜地",
+        "pinyin": "shèng dì",
+        "japanese": "名所"
+    },
+    {
+        "chinese": "不管",
+        "pinyin": "bù guǎn",
+        "japanese": "～にかかわらず"
+    },
+    {
+        "chinese": "只有",
+        "pinyin": "zhǐ yǒu",
+        "japanese": "～しかない"
+    },
+    {
+        "chinese": "学好",
+        "pinyin": "xué hǎo",
+        "japanese": "しっかり学ぶ"
+    },
+    {
+        "chinese": "俗话",
+        "pinyin": "sú huà",
+        "japanese": "ことわざ"
+    },
+    {
+        "chinese": "既然~就",
+        "pinyin": "jì rán ~ jiù",
+        "japanese": "～であるからには～する"
+    },
+    {
+        "chinese": "好好儿",
+        "pinyin": "hǎo hǎor",
+        "japanese": "ちゃんと"
+    },
+    {
+        "chinese": "后悔",
+        "pinyin": "hòu huǐ",
+        "japanese": "後悔する"
+    },
+    {
+        "chinese": "有什么用",
+        "pinyin": "yǒu shén me yòng",
+        "japanese": "何の役に立つ"
+    },
+    {
+        "chinese": "正宗",
+        "pinyin": "zhèng zōng",
+        "japanese": "本場の"
+    },
+    {
+        "chinese": "四川",
+        "pinyin": "sì chuān",
+        "japanese": "四川"
+    },
+    {
+        "chinese": "请客",
+        "pinyin": "qǐng kè",
+        "japanese": "おごる"
+    },
+    {
+        "chinese": "先",
+        "pinyin": "xiān",
+        "japanese": "先に"
+    },
+    {
+        "chinese": "虽然",
+        "pinyin": "suī rán",
+        "japanese": "～だけれども"
+    },
+    {
+        "chinese": "网球",
+        "pinyin": "wǎng qiú",
+        "japanese": "テニス"
+    },
+    {
+        "chinese": "白天",
+        "pinyin": "bái tiān",
+        "japanese": "昼間"
+    },
+    {
+        "chinese": "凉快",
+        "pinyin": "liáng kuai",
+        "japanese": "涼しい"
+    },
+    {
+        "chinese": "蛋糕",
+        "pinyin": "dàn gāo",
+        "japanese": "ケーキ"
+    },
+    {
+        "chinese": "饿",
+        "pinyin": "è",
+        "japanese": "お腹が空く"
+    },
+    {
+        "chinese": "一边…一边…",
+        "pinyin": "yī biān… yī biān…",
+        "japanese": "～しながら～する"
+    },
+    {
+        "chinese": "聊天儿",
+        "pinyin": "liáo tiān r",
+        "japanese": "おしゃべりする"
+    },
+    {
+        "chinese": "热闹",
+        "pinyin": "rè nao",
+        "japanese": "賑やか"
+    },
+    {
+        "chinese": "跳舞",
+        "pinyin": "tiào wǔ",
+        "japanese": "ダンスをする"
+    },
+    {
+        "chinese": "精彩",
+        "pinyin": "jīng cǎi",
+        "japanese": "素晴らしい"
+    },
+    {
+        "chinese": "苏州",
+        "pinyin": "sū zhōu",
+        "japanese": "蘇州"
+    },
+    {
+        "chinese": "复习",
+        "pinyin": "fù xí",
+        "japanese": "復習する"
+    },
+    {
+        "chinese": "连…都…",
+        "pinyin": "lián… dōu…",
+        "japanese": "～さえも～"
+    },
+    {
+        "chinese": "历史",
+        "pinyin": "lì shǐ",
+        "japanese": "歴史"
+    },
+    {
+        "chinese": "感兴趣",
+        "pinyin": "gǎn xìng qù",
+        "japanese": "興味がある"
+    },
+    {
+        "chinese": "别说",
+        "pinyin": "bié shuō",
+        "japanese": "言うまでもなく"
+    },
+    {
+        "chinese": "了解",
+        "pinyin": "liǎo jiě",
+        "japanese": "理解する"
+    },
+    {
+        "chinese": "晚会",
+        "pinyin": "wǎn huì",
+        "japanese": "パーティー、夜会"
     }
 ]
