@@ -33,6 +33,10 @@ app.get('/', (req, res) => {
     res.render('index');
 });
 
+app.get('/make_sentence', (req, res) => {
+    res.render('make_sentence');
+});
+
 app.get('/show', async (req, res) => {
     const vocabularies = await Vocabulary.find();
 

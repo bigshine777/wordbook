@@ -1,0 +1,67 @@
+.container {
+    max-width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 0 20px;
+}
+
+#problem-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; /* 単語を自動的に折り返す */
+    justify-content: center; /* 単語を中央に配置 */
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    margin-bottom: 10px;
+    min-height: 50px; /* コンテナの高さを固定 */
+}
+
+.word {
+    display: inline-block;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin: 5px;
+    padding: 5px;
+    cursor: grab;
+    white-space: normal; /* 改行可能にする */
+    word-wrap: break-word; /* 単語が長すぎても折り返し */
+    min-width: 80px; /* 単語が小さくなりすぎないように最小幅を指定 */
+    text-align: center; /* 単語を中央揃え */
+    box-sizing: border-box;
+}
+
+.word.dragging {
+    opacity: 0.5;
+}
+
+button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: #007BFF;
+    color: #fff;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#result {
+    margin: 10px;
+    font-size: 18px;
+}
+
+#answer-container {
+    margin-top: 10px;
+    font-size: 16px;
+    text-align: left;
+}
+
+.hidden {
+    display: none; /* 漢字を隠す */
+}
