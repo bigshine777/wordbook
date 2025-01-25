@@ -319,11 +319,12 @@ function addDragAndDrop() {
     problemContainer.addEventListener("dragover", e => {
         e.preventDefault();
         const dragging = document.querySelector(".dragging");
-        const afterElement = getDragAfterElement(e.clientX);
+        const currentRow = problemContainer; // 現在の行を問題コンテナ自体に変更
+        const afterElement = getDragAfterElement(e.clientX, currentRow);
         if (afterElement == null) {
-            problemContainer.appendChild(dragging);
+            currentRow.appendChild(dragging);
         } else {
-            problemContainer.insertBefore(dragging, afterElement);
+            currentRow.insertBefore(dragging, afterElement);
         }
     });
 
@@ -331,16 +332,23 @@ function addDragAndDrop() {
         e.preventDefault();
         const dragging = document.querySelector(".dragging");
         const touch = e.touches[0]; // タッチの座標を取得
-        const afterElement = getDragAfterElement(touch.clientX);
+        const currentRow = problemContainer; // 現在の行を問題コンテナ自体に変更
+        const afterElement = getDragAfterElement(touch.clientX, currentRow);
         if (afterElement == null) {
-            problemContainer.appendChild(dragging);
+            currentRow.appendChild(dragging);
         } else {
-            problemContainer.insertBefore(dragging, afterElement);
+            currentRow.insertBefore(dragging, afterElement);
         }
     });
 
-    function getDragAfterElement(x) {
-        const draggableElements = [...problemContainer.querySelectorAll(".word:not(.dragging)")];
+    // ドラッグ中の要素が所属する行（親要素）を取得
+    function getCurrentRow(dragging) {
+        return dragging.closest(".row") || problemContainer; // もし行がない場合、コンテナを使う
+    }
+
+    // 同じ行内で、挿入すべき位置を計算
+    function getDragAfterElement(x, currentRow) {
+        const draggableElements = [...currentRow.querySelectorAll(".word:not(.dragging)")];
         return draggableElements.reduce((closest, child) => {
             const box = child.getBoundingClientRect();
             const offset = x - box.left - box.width / 2;
@@ -352,6 +360,8 @@ function addDragAndDrop() {
         }, { offset: Number.NEGATIVE_INFINITY }).element;
     }
 }
+
+
 
 // ピンイン表示の切り替え
 function togglePinyin() {
