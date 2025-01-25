@@ -38,7 +38,7 @@ const Vocabulary = require('./models/vocabulary'); // モデルファイルの�
 
 const mongoURI = 'mongodb+srv://bigshine777:LPeucyLj5SMB1bCp@cluster0.5kzge.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
 
-mongoose.connect(mongoURI)
+mongoose.connect("mongodb://127.0.0.1:27017/vocabulary")
   .then(() => {
     console.log('MongoDB Atlasに接続しました');
   })

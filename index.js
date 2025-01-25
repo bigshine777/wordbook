@@ -10,7 +10,7 @@ const Vocabulary = require('./models/vocabulary');
 // mongoDBのimport
 const mongoURI = process.env.DBURI;
 const mongoose = require('mongoose');
-mongoose.connect(mongoURI)
+mongoose.connect("mongodb://127.0.0.1:27017/vocabulary")
     .then(() => {
         console.log('MongoDB Atlasに接続しました');
     })
