@@ -32,11 +32,13 @@
 //     });
 // });
 
+require('dotenv').config();
+
 const mongoose = require('mongoose');
 const fs = require('fs');
 const Vocabulary = require('./models/vocabulary'); // モデルファイルのパス
 
-const mongoURI = 'mongodb+srv://bigshine777:LPeucyLj5SMB1bCp@cluster0.5kzge.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
+const mongoURI = process.env.DBURI;
 
 mongoose.connect(mongoURI)
   .then(() => {
